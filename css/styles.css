@@ -263,7 +263,7 @@ nav {
   }
   nav {
     display: flex;
-    justify-content: flex-start;
+    justify-content: center;
     background-color: #080e0ac7;
     backdrop-filter: blur(8px);
     width: 100%;

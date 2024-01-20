@@ -268,7 +268,8 @@ nav {
     backdrop-filter: blur(8px);
     width: 100%;
     height: auto;
-    position: static;
+    position: sticky;
+    top: 0px;
     flex-direction: column;
   }
 
